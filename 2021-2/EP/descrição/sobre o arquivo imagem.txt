@@ -1,0 +1,6 @@
+Caros alunos,
+o arquivo imagem que vocês vão abrir é 'farol.txt' . No seu programa, na declaração de variáveis, deve constar a seguinte declaração
+
+arquivo_img	db 'farol.txt',0  ; "arquivo_img" é o nome da string e você pode colocar o nome que melhor lhe convier.
+
+O arquivo 'Farol-de-Santa-Luzia - Imagem colorida.jpg' contém a imagem original.
